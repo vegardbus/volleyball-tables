@@ -15,7 +15,7 @@
 13,Oldenborg,NTNUI 2,0.0,0.0
 14,NTNUI 2,Oldenborg,0.0,0.0
 15,TVN,Oldenborg,3,2
-16,OSI,Førde 2,0.0,0.0
+16,OSI,Førde 2,3,2
 17,Førde 2,OSI,0.0,0.0
 18,OSI,KFUM Volda,0.0,0.0
 19,KFUM Volda,OSI,0.0,0.0
@@ -65,7 +65,7 @@
 63,TVN,UiSi,0.0,0.0
 64,Viking 2,Førde 2,2,3
 65,Førde 2,Viking 2,0.0,0.0
-66,Viking 2,KFUM Volda,0.0,0.0
+66,Viking 2,KFUM Volda,3,0
 67,KFUM Volda,Viking 2,0.0,0.0
 68,Viking 2,NTNUI 2,2,3
 69,NTNUI 2,Viking 2,0.0,0.0

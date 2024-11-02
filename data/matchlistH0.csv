@@ -14,14 +14,14 @@
 12,Koll,NTNUI,0.0,0.0
 13,NTNUI,Lierne,3,1
 14,Lierne,NTNUI,0.0,0.0
-15,TVN,NTNUI,0.0,0.0
+15,TVN,NTNUI,3,2
 16,Randaberg,Førde,0.0,0.0
 17,Førde,Randaberg,0.0,0.0
 18,Randaberg,Koll,0.0,0.0
 19,Koll,Randaberg,0.0,0.0
 20,Randaberg,Lierne,3,0
 21,Lierne,Randaberg,0.0,0.0
-22,Randaberg,NTNUI,0.0,0.0
+22,Randaberg,NTNUI,3,1
 23,NTNUI,Randaberg,0.0,0.0
 24,TVN,Randaberg,0.0,0.0
 25,Tromsø,Førde,0.0,0.0
@@ -46,7 +46,7 @@
 44,Viking,Randaberg,0.0,0.0
 45,Randaberg,Viking,0.0,0.0
 46,Viking,Tromsø,3,0
-47,Tromsø,Viking,0.0,0.0
+47,Tromsø,Viking,3,1
 48,TVN,Viking,0.0,0.0
 49,ØKSIL,Førde,0.0,0.0
 50,Førde,ØKSIL,0.0,0.0
