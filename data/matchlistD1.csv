@@ -10,7 +10,7 @@
 8,TVN,Koll 2,0.0,0.0
 9,NMBUI,BSI,3,2
 10,BSI,NMBUI,0.0,0.0
-11,NMBUI,KFUM Volda,0.0,0.0
+11,NMBUI,KFUM Volda,1,3
 12,KFUM Volda,NMBUI,3,0
 13,NMBUI,Koll 2,0.0,0.0
 14,Koll 2,NMBUI,0.0,0.0
@@ -35,14 +35,14 @@
 33,OSI,NTNUI 2,0.0,0.0
 34,NTNUI 2,OSI,3,1
 35,TVN,OSI,0.0,0.0
-36,Sandnes,BSI,0.0,0.0
+36,Sandnes,BSI,0,3
 37,BSI,Sandnes,0.0,0.0
 38,Sandnes,KFUM Volda,1,3
 39,KFUM Volda,Sandnes,0.0,0.0
 40,Sandnes,Koll 2,0.0,0.0
-41,Koll 2,Sandnes,0.0,0.0
+41,Koll 2,Sandnes,3,0
 42,Sandnes,NMBUI,0.0,0.0
-43,NMBUI,Sandnes,0.0,0.0
+43,NMBUI,Sandnes,3,1
 44,Sandnes,NTNUI 2,1,3
 45,NTNUI 2,Sandnes,0.0,0.0
 46,Sandnes,OSI,0.0,0.0
@@ -59,11 +59,11 @@
 57,Skjetten,NTNUI 2,0.0,0.0
 58,NTNUI 2,Skjetten,0.0,0.0
 59,Skjetten,OSI,0.0,0.0
-60,OSI,Skjetten,0.0,0.0
+60,OSI,Skjetten,3,0
 61,Skjetten,Sandnes,2,3
 62,Sandnes,Skjetten,0.0,0.0
 63,TVN,Skjetten,0.0,0.0
-64,Tromsø,BSI,0.0,0.0
+64,Tromsø,BSI,3,0
 65,BSI,Tromsø,0.0,0.0
 66,Tromsø,KFUM Volda,0.0,0.0
 67,KFUM Volda,Tromsø,0.0,0.0
@@ -83,7 +83,7 @@
 81,Viking 2,BSI,0.0,0.0
 82,BSI,Viking 2,3,0
 83,Viking 2,KFUM Volda,0,3
-84,KFUM Volda,Viking 2,0.0,0.0
+84,KFUM Volda,Viking 2,3,0
 85,Viking 2,Koll 2,0.0,0.0
 86,Koll 2,Viking 2,0.0,0.0
 87,Viking 2,NMBUI,0.0,0.0
@@ -98,4 +98,4 @@
 96,Skjetten,Viking 2,0.0,0.0
 97,Viking 2,Tromsø,0.0,0.0
 98,Tromsø,Viking 2,3,1
-99,TVN,Viking 2,0.0,0.0
+99,TVN,Viking 2,3,1

@@ -1,13 +1,13 @@
 ,teamA,teamB,scoreA,scoreB
 0,TVN,Førde 2,0.0,0.0
-1,KFUM Volda,Førde 2,0.0,0.0
+1,KFUM Volda,Førde 2,2,3
 2,Førde 2,KFUM Volda,3,2
 3,TVN,KFUM Volda,1,3
 4,NTNUI 2,Førde 2,3,0
 5,Førde 2,NTNUI 2,0.0,0.0
 6,NTNUI 2,KFUM Volda,0.0,0.0
 7,KFUM Volda,NTNUI 2,0.0,0.0
-8,TVN,NTNUI 2,0.0,0.0
+8,TVN,NTNUI 2,1,3
 9,Oldenborg,Førde 2,3,2
 10,Førde 2,Oldenborg,0.0,0.0
 11,Oldenborg,KFUM Volda,0.0,0.0
@@ -21,7 +21,7 @@
 19,KFUM Volda,OSI,0.0,0.0
 20,OSI,NTNUI 2,0.0,0.0
 21,NTNUI 2,OSI,2,3
-22,OSI,Oldenborg,0.0,0.0
+22,OSI,Oldenborg,3,1
 23,Oldenborg,OSI,0.0,0.0
 24,TVN,OSI,0.0,0.0
 25,Rossvoll,Førde 2,3,0
@@ -31,9 +31,9 @@
 29,Rossvoll,NTNUI 2,0.0,0.0
 30,NTNUI 2,Rossvoll,3,1
 31,Rossvoll,Oldenborg,0.0,0.0
-32,Oldenborg,Rossvoll,0.0,0.0
+32,Oldenborg,Rossvoll,3,1
 33,Rossvoll,OSI,0.0,0.0
-34,OSI,Rossvoll,0.0,0.0
+34,OSI,Rossvoll,3,0
 35,TVN,Rossvoll,0.0,0.0
 36,Sotra,Førde 2,0.0,0.0
 37,Førde 2,Sotra,0.0,0.0
@@ -47,7 +47,7 @@
 45,OSI,Sotra,3,0
 46,Sotra,Rossvoll,0.0,0.0
 47,Rossvoll,Sotra,0.0,0.0
-48,TVN,Sotra,0.0,0.0
+48,TVN,Sotra,3,0
 49,UiSi,Førde 2,0.0,0.0
 50,Førde 2,UiSi,0.0,0.0
 51,UiSi,KFUM Volda,0,3
@@ -64,9 +64,9 @@
 62,Sotra,UiSi,0.0,0.0
 63,TVN,UiSi,2,3
 64,Viking 2,Førde 2,2,3
-65,Førde 2,Viking 2,0.0,0.0
+65,Førde 2,Viking 2,0,3
 66,Viking 2,KFUM Volda,3,0
-67,KFUM Volda,Viking 2,0.0,0.0
+67,KFUM Volda,Viking 2,0,3
 68,Viking 2,NTNUI 2,2,3
 69,NTNUI 2,Viking 2,0.0,0.0
 70,Viking 2,Oldenborg,0.0,0.0
@@ -78,5 +78,5 @@
 76,Viking 2,Sotra,0.0,0.0
 77,Sotra,Viking 2,0,3
 78,Viking 2,UiSi,0.0,0.0
-79,UiSi,Viking 2,0.0,0.0
-80,TVN,Viking 2,0.0,0.0
+79,UiSi,Viking 2,1,3
+80,TVN,Viking 2,0,3
