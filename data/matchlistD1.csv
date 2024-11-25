@@ -1,5 +1,5 @@
 ,teamA,teamB,scoreA,scoreB
-0,TVN,BSI,0.0,0.0
+0,TVN,BSI,1,3
 1,KFUM Volda,BSI,0.0,0.0
 2,BSI,KFUM Volda,0,3
 3,TVN,KFUM Volda,0,3
@@ -12,7 +12,7 @@
 10,BSI,NMBUI,0.0,0.0
 11,NMBUI,KFUM Volda,1,3
 12,KFUM Volda,NMBUI,3,0
-13,NMBUI,Koll 2,0.0,0.0
+13,NMBUI,Koll 2,3,1
 14,Koll 2,NMBUI,0.0,0.0
 15,TVN,NMBUI,0.0,0.0
 16,NTNUI 2,BSI,0.0,0.0
@@ -50,7 +50,7 @@
 48,TVN,Sandnes,2,3
 49,Skjetten,BSI,0.0,0.0
 50,BSI,Skjetten,0.0,0.0
-51,Skjetten,KFUM Volda,0.0,0.0
+51,Skjetten,KFUM Volda,0,3
 52,KFUM Volda,Skjetten,0.0,0.0
 53,Skjetten,Koll 2,0.0,0.0
 54,Koll 2,Skjetten,3,0
@@ -93,7 +93,7 @@
 91,Viking 2,OSI,0.0,0.0
 92,OSI,Viking 2,0.0,0.0
 93,Viking 2,Sandnes,0.0,0.0
-94,Sandnes,Viking 2,0.0,0.0
+94,Sandnes,Viking 2,3,2
 95,Viking 2,Skjetten,0.0,0.0
 96,Skjetten,Viking 2,0.0,0.0
 97,Viking 2,Tromsø,0.0,0.0
