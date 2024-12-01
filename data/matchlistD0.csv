@@ -1,5 +1,5 @@
 ,teamA,teamB,scoreA,scoreB
-0,TVN,Førde,0.0,0.0
+0,TVN,Førde,1,3
 1,Koll,Førde,3,2
 2,Førde,Koll,0.0,0.0
 3,TVN,Koll,0.0,0.0
@@ -55,7 +55,7 @@
 53,ØKSIL,Lierne,3,0
 54,Lierne,ØKSIL,0.0,0.0
 55,ØKSIL,NTNUI,3,0
-56,NTNUI,ØKSIL,0.0,0.0
+56,NTNUI,ØKSIL,3,1
 57,ØKSIL,Oslo Volley,0.0,0.0
 58,Oslo Volley,ØKSIL,0.0,0.0
 59,ØKSIL,Randaberg,3,0

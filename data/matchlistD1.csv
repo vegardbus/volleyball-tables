@@ -62,12 +62,12 @@
 60,OSI,Skjetten,3,0
 61,Skjetten,Sandnes,2,3
 62,Sandnes,Skjetten,3,0
-63,TVN,Skjetten,0.0,0.0
+63,TVN,Skjetten,3,0
 64,Tromsø,BSI,3,0
 65,BSI,Tromsø,0.0,0.0
 66,Tromsø,KFUM Volda,0,3
 67,KFUM Volda,Tromsø,0.0,0.0
-68,Tromsø,Koll 2,0.0,0.0
+68,Tromsø,Koll 2,3,0
 69,Koll 2,Tromsø,1,3
 70,Tromsø,NMBUI,0.0,0.0
 71,NMBUI,Tromsø,1,3
@@ -90,7 +90,7 @@
 88,NMBUI,Viking 2,0.0,0.0
 89,Viking 2,NTNUI 2,0,3
 90,NTNUI 2,Viking 2,0.0,0.0
-91,Viking 2,OSI,0.0,0.0
+91,Viking 2,OSI,1,3
 92,OSI,Viking 2,0.0,0.0
 93,Viking 2,Sandnes,0.0,0.0
 94,Sandnes,Viking 2,3,2
