@@ -18,11 +18,11 @@
 16,OSI,Førde 2,3,2
 17,Førde 2,OSI,0.0,0.0
 18,OSI,KFUM Volda,0.0,0.0
-19,KFUM Volda,OSI,0.0,0.0
+19,KFUM Volda,OSI,1,3
 20,OSI,NTNUI 2,0.0,0.0
 21,NTNUI 2,OSI,2,3
 22,OSI,Oldenborg,3,1
-23,Oldenborg,OSI,0.0,0.0
+23,Oldenborg,OSI,3,2
 24,TVN,OSI,0.0,0.0
 25,Rossvoll,Førde 2,3,0
 26,Førde 2,Rossvoll,3,1
@@ -45,13 +45,13 @@
 43,Oldenborg,Sotra,0.0,0.0
 44,Sotra,OSI,0.0,0.0
 45,OSI,Sotra,3,0
-46,Sotra,Rossvoll,0.0,0.0
+46,Sotra,Rossvoll,2,3
 47,Rossvoll,Sotra,0.0,0.0
 48,TVN,Sotra,3,0
 49,UiSi,Førde 2,3,1
-50,Førde 2,UiSi,0.0,0.0
+50,Førde 2,UiSi,3,0
 51,UiSi,KFUM Volda,0,3
-52,KFUM Volda,UiSi,0.0,0.0
+52,KFUM Volda,UiSi,3,0
 53,UiSi,NTNUI 2,0.0,0.0
 54,NTNUI 2,UiSi,3,1
 55,UiSi,Oldenborg,1,3
