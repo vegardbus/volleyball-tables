@@ -14,10 +14,10 @@ pd.options.mode.chained_assignment = None  # default='warn' # Avoid warnings for
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 #Create list of the teams for top leagues in Norway
-H0=["Førde","Koll","Lierne","NTNUI","Randaberg","Tromsø",'Viking',"ØKSIL"] # teams in H0
-D0=['Førde','Koll','Lierne',"NTNUI",'Oslo Volley','Randaberg','Viking',"ØKSIL"] #teams in D0
-H1=["Førde 2","KFUM Volda","NTNUI 2","Oldenborg","OSI","Rossvoll","Sotra","UiSi","Viking 2"] #teams in H1
-D1=["BSI","KFUM Volda","Koll 2","NMBUI","NTNUI 2","OSI","Sandnes","Skjetten","Tromsø","Viking 2"] #teams in D1
+H0=["Førde","Koll","NTNUI","OSI","Randaberg","Tromsø",'Viking',"ØKSIL"] # teams in H0
+D0=['Førde','KFUM Volda','Koll',"NTNUI",'Oslo Volley','Randaberg','Viking',"ØKSIL"] #teams in D0
+H1=["BSI","Førde 2","KFUM Volda","NTNUI 2","Oldenborg","Oslo Volley","Rossvoll","Tromsø 2","UiSi","Viking 2"] #teams in H1
+D1=["BSI","Finstad","Førde 2","Haugesund","Koll 2","NMBUI","NTNUI 2","OSI","Sandnes","Tromsø"] #teams in D1
 league_keys = ['H0','D0','H1','D1']
 
 # Creates team object which can be sorted according to table criteria
@@ -199,26 +199,26 @@ def displayTable(key,N):
         for i in range(3,7):
             output += lineList[i]
         output += r' \kvalik ' + lineList[7] + r' \nedrykk ' + lineList[8]
-    elif key == 'D1': 
+    elif (key == 'D1' or key == 'H1'): 
         output += lineList[1] + r' \kvalik ' + lineList[2]
         for i in range(3,9):
             output += lineList[i]
         output += r' \nedrykk' + lineList[9] + r' \nedrykk ' + lineList[10]
-    elif key == 'H1':
+        '''    elif key == 'H1':
         output += lineList[1] + r' \kvalik ' + lineList[2]
         for i in range(3,9):
             output += lineList[i]
-        output += r' \nedrykk' + lineList[9]
+        output += r' \nedrykk' + lineList[9]'''
     print(output)
 
 def main():
-    total_matches=[64,64,81,100]
+    total_matches=[64,64,100,100]
     for i in range (4):
         displayTable(league_keys[i],total_matches[i])
 
 if __name__=="__main__": 
     #generate_matches(H0,8,outpath='../data/matchlistH0.csv')
     #generate_matches(D0,8,outpath='../data/matchlistD0.csv')
-    #generate_matches(H1,9,outpath='../data/matchlistH1.csv')
+    #generate_matches(H1,10,outpath='../data/matchlistH1.csv')
     #generate_matches(D1,10,outpath='../data/matchlistD1.csv')
     main()
