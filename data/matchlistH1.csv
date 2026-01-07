@@ -1,101 +1,101 @@
 ,teamA,teamB,scoreA,scoreB
 0,TVN,BSI,0.0,0.0
-1,Førde 2,BSI,0.0,0.0
+1,Førde 2,BSI,3,2
 2,BSI,Førde 2,0.0,0.0
-3,TVN,Førde 2,0.0,0.0
-4,KFUM Volda,BSI,0.0,0.0
+3,TVN,Førde 2,3,1
+4,KFUM Volda,BSI,3,2
 5,BSI,KFUM Volda,0.0,0.0
-6,KFUM Volda,Førde 2,0.0,0.0
+6,KFUM Volda,Førde 2,3,2
 7,Førde 2,KFUM Volda,0.0,0.0
-8,TVN,KFUM Volda,0.0,0.0
+8,TVN,KFUM Volda,1,3
 9,NTNUI 2,BSI,0.0,0.0
 10,BSI,NTNUI 2,0.0,0.0
-11,NTNUI 2,Førde 2,0.0,0.0
+11,NTNUI 2,Førde 2,0,3
 12,Førde 2,NTNUI 2,0.0,0.0
-13,NTNUI 2,KFUM Volda,0.0,0.0
+13,NTNUI 2,KFUM Volda,3,2
 14,KFUM Volda,NTNUI 2,0.0,0.0
-15,TVN,NTNUI 2,0.0,0.0
+15,TVN,NTNUI 2,2,3
 16,Oldenborg,BSI,0.0,0.0
 17,BSI,Oldenborg,0.0,0.0
-18,Oldenborg,Førde 2,0.0,0.0
+18,Oldenborg,Førde 2,0,3
 19,Førde 2,Oldenborg,0.0,0.0
 20,Oldenborg,KFUM Volda,0.0,0.0
 21,KFUM Volda,Oldenborg,0.0,0.0
 22,Oldenborg,NTNUI 2,0.0,0.0
 23,NTNUI 2,Oldenborg,0.0,0.0
-24,TVN,Oldenborg,0.0,0.0
+24,TVN,Oldenborg,3,2
 25,Oslo Volley,BSI,0.0,0.0
-26,BSI,Oslo Volley,0.0,0.0
-27,Oslo Volley,Førde 2,0.0,0.0
+26,BSI,Oslo Volley,3,0
+27,Oslo Volley,Førde 2,3,0
 28,Førde 2,Oslo Volley,0.0,0.0
 29,Oslo Volley,KFUM Volda,0.0,0.0
 30,KFUM Volda,Oslo Volley,0.0,0.0
 31,Oslo Volley,NTNUI 2,0.0,0.0
-32,NTNUI 2,Oslo Volley,0.0,0.0
-33,Oslo Volley,Oldenborg,0.0,0.0
-34,Oldenborg,Oslo Volley,0.0,0.0
+32,NTNUI 2,Oslo Volley,3,2
+33,Oslo Volley,Oldenborg,3,1
+34,Oldenborg,Oslo Volley,0,3
 35,TVN,Oslo Volley,0.0,0.0
 36,Rossvoll,BSI,0.0,0.0
-37,BSI,Rossvoll,0.0,0.0
+37,BSI,Rossvoll,3,0
 38,Rossvoll,Førde 2,0.0,0.0
-39,Førde 2,Rossvoll,0.0,0.0
-40,Rossvoll,KFUM Volda,0.0,0.0
-41,KFUM Volda,Rossvoll,0.0,0.0
+39,Førde 2,Rossvoll,3,0
+40,Rossvoll,KFUM Volda,3,1
+41,KFUM Volda,Rossvoll,1,3
 42,Rossvoll,NTNUI 2,0.0,0.0
 43,NTNUI 2,Rossvoll,0.0,0.0
 44,Rossvoll,Oldenborg,0.0,0.0
 45,Oldenborg,Rossvoll,0.0,0.0
-46,Rossvoll,Oslo Volley,0.0,0.0
+46,Rossvoll,Oslo Volley,0,3
 47,Oslo Volley,Rossvoll,0.0,0.0
-48,TVN,Rossvoll,0.0,0.0
-49,Tromsø 2,BSI,0.0,0.0
-50,BSI,Tromsø 2,0.0,0.0
-51,Tromsø 2,Førde 2,0.0,0.0
+48,TVN,Rossvoll,1,3
+49,Tromsø 2,BSI,0,3
+50,BSI,Tromsø 2,3,1
+51,Tromsø 2,Førde 2,3,2
 52,Førde 2,Tromsø 2,0.0,0.0
-53,Tromsø 2,KFUM Volda,0.0,0.0
+53,Tromsø 2,KFUM Volda,1,3
 54,KFUM Volda,Tromsø 2,0.0,0.0
 55,Tromsø 2,NTNUI 2,0.0,0.0
-56,NTNUI 2,Tromsø 2,0.0,0.0
-57,Tromsø 2,Oldenborg,0.0,0.0
-58,Oldenborg,Tromsø 2,0.0,0.0
-59,Tromsø 2,Oslo Volley,0.0,0.0
-60,Oslo Volley,Tromsø 2,0.0,0.0
+56,NTNUI 2,Tromsø 2,3,1
+57,Tromsø 2,Oldenborg,3,1
+58,Oldenborg,Tromsø 2,1,3
+59,Tromsø 2,Oslo Volley,1,3
+60,Oslo Volley,Tromsø 2,2,3
 61,Tromsø 2,Rossvoll,0.0,0.0
-62,Rossvoll,Tromsø 2,0.0,0.0
+62,Rossvoll,Tromsø 2,3,0
 63,TVN,Tromsø 2,0.0,0.0
 64,UiSi,BSI,0.0,0.0
-65,BSI,UiSi,0.0,0.0
-66,UiSi,Førde 2,0.0,0.0
+65,BSI,UiSi,3,0
+66,UiSi,Førde 2,2,3
 67,Førde 2,UiSi,0.0,0.0
-68,UiSi,KFUM Volda,0.0,0.0
-69,KFUM Volda,UiSi,0.0,0.0
-70,UiSi,NTNUI 2,0.0,0.0
+68,UiSi,KFUM Volda,3,1
+69,KFUM Volda,UiSi,3,1
+70,UiSi,NTNUI 2,1,3
 71,NTNUI 2,UiSi,0.0,0.0
-72,UiSi,Oldenborg,0.0,0.0
-73,Oldenborg,UiSi,0.0,0.0
+72,UiSi,Oldenborg,1,3
+73,Oldenborg,UiSi,1,3
 74,UiSi,Oslo Volley,0.0,0.0
-75,Oslo Volley,UiSi,0.0,0.0
-76,UiSi,Rossvoll,0.0,0.0
-77,Rossvoll,UiSi,0.0,0.0
+75,Oslo Volley,UiSi,3,2
+76,UiSi,Rossvoll,1,3
+77,Rossvoll,UiSi,3,0
 78,UiSi,Tromsø 2,0.0,0.0
 79,Tromsø 2,UiSi,0.0,0.0
-80,TVN,UiSi,0.0,0.0
-81,Viking 2,BSI,0.0,0.0
-82,BSI,Viking 2,0.0,0.0
+80,TVN,UiSi,1,3
+81,Viking 2,BSI,1,3
+82,BSI,Viking 2,3,0
 83,Viking 2,Førde 2,0.0,0.0
 84,Førde 2,Viking 2,0.0,0.0
 85,Viking 2,KFUM Volda,0.0,0.0
 86,KFUM Volda,Viking 2,0.0,0.0
 87,Viking 2,NTNUI 2,0.0,0.0
-88,NTNUI 2,Viking 2,0.0,0.0
+88,NTNUI 2,Viking 2,3,2
 89,Viking 2,Oldenborg,0.0,0.0
-90,Oldenborg,Viking 2,0.0,0.0
-91,Viking 2,Oslo Volley,0.0,0.0
-92,Oslo Volley,Viking 2,0.0,0.0
-93,Viking 2,Rossvoll,0.0,0.0
+90,Oldenborg,Viking 2,3,1
+91,Viking 2,Oslo Volley,0,3
+92,Oslo Volley,Viking 2,3,2
+93,Viking 2,Rossvoll,1,3
 94,Rossvoll,Viking 2,0.0,0.0
 95,Viking 2,Tromsø 2,2,3
-96,Tromsø 2,Viking 2,0.0,0.0
+96,Tromsø 2,Viking 2,2,3
 97,Viking 2,UiSi,0.0,0.0
-98,UiSi,Viking 2,0.0,0.0
-99,TVN,Viking 2,0.0,0.0
+98,UiSi,Viking 2,1,3
+99,TVN,Viking 2,0,3
