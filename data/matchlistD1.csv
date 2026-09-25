@@ -1,101 +1,82 @@
 ,teamA,teamB,scoreA,scoreB
-0,TVN,BSI,1,3
-1,Finstad,BSI,0.0,0.0
-2,BSI,Finstad,0.0,0.0
-3,TVN,Finstad,1,3
-4,Førde 2,BSI,2,3
+0,TVN,BSI,0.0,0.0
+1,NTNUI,BSI,0.0,0.0
+2,BSI,NTNUI,0.0,0.0
+3,TVN,NTNUI,0.0,0.0
+4,Førde 2,BSI,0.0,0.0
 5,BSI,Førde 2,0.0,0.0
-6,Førde 2,Finstad,0.0,0.0
-7,Finstad,Førde 2,3,1
-8,TVN,Førde 2,3,0
-9,Haugesund,BSI,1,3
-10,BSI,Haugesund,3,0
-11,Haugesund,Finstad,2,3
-12,Finstad,Haugesund,0.0,0.0
+6,Førde 2,NTNUI,0.0,0.0
+7,NTNUI,Førde 2,0.0,0.0
+8,TVN,Førde 2,0.0,0.0
+9,Haugesund,BSI,0.0,0.0
+10,BSI,Haugesund,0.0,0.0
+11,Haugesund,NTNUI,0.0,0.0
+12,NTNUI,Haugesund,0.0,0.0
 13,Haugesund,Førde 2,0.0,0.0
-14,Førde 2,Haugesund,0,3
-15,TVN,Haugesund,3,2
-16,Koll 2,BSI,0.0,0.0
-17,BSI,Koll 2,3,0
-18,Koll 2,Finstad,0,3
-19,Finstad,Koll 2,3,0
-20,Koll 2,Førde 2,0,3
-21,Førde 2,Koll 2,3,0
-22,Koll 2,Haugesund,0.0,0.0
-23,Haugesund,Koll 2,0.0,0.0
-24,TVN,Koll 2,0.0,0.0
+14,Førde 2,Haugesund,0.0,0.0
+15,TVN,Haugesund,0.0,0.0
+16,OSI 2,BSI,0.0,0.0
+17,BSI,OSI 2,0.0,0.0
+18,OSI 2,NTNUI,0.0,0.0
+19,NTNUI,OSI 2,0.0,0.0
+20,OSI 2,Førde 2,0.0,0.0
+21,Førde 2,OSI 2,0.0,0.0
+22,OSI 2,Haugesund,0.0,0.0
+23,Haugesund,OSI 2,0.0,0.0
+24,TVN,OSI 2,0.0,0.0
 25,NMBUI,BSI,0.0,0.0
-26,BSI,NMBUI,3,1
-27,NMBUI,Finstad,3,0
-28,Finstad,NMBUI,0.0,0.0
+26,BSI,NMBUI,0.0,0.0
+27,NMBUI,NTNUI,0.0,0.0
+28,NTNUI,NMBUI,0.0,0.0
 29,NMBUI,Førde 2,0.0,0.0
-30,Førde 2,NMBUI,3,1
+30,Førde 2,NMBUI,0.0,0.0
 31,NMBUI,Haugesund,0.0,0.0
 32,Haugesund,NMBUI,0.0,0.0
-33,NMBUI,Koll 2,3,0
-34,Koll 2,NMBUI,0.0,0.0
+33,NMBUI,OSI 2,0.0,0.0
+34,OSI 2,NMBUI,0.0,0.0
 35,TVN,NMBUI,0.0,0.0
-36,NTNUI 2,BSI,0.0,0.0
-37,BSI,NTNUI 2,0.0,0.0
-38,NTNUI 2,Finstad,0.0,0.0
-39,Finstad,NTNUI 2,3,0
-40,NTNUI 2,Førde 2,3,1
-41,Førde 2,NTNUI 2,0.0,0.0
-42,NTNUI 2,Haugesund,0.0,0.0
-43,Haugesund,NTNUI 2,0.0,0.0
-44,NTNUI 2,Koll 2,3,0
-45,Koll 2,NTNUI 2,0,3
-46,NTNUI 2,NMBUI,1,3
-47,NMBUI,NTNUI 2,3,0
-48,TVN,NTNUI 2,3,1
-49,OSI,BSI,0.0,0.0
-50,BSI,OSI,0.0,0.0
-51,OSI,Finstad,3,1
-52,Finstad,OSI,3,2
-53,OSI,Førde 2,0.0,0.0
-54,Førde 2,OSI,0.0,0.0
-55,OSI,Haugesund,0.0,0.0
-56,Haugesund,OSI,1,3
-57,OSI,Koll 2,0.0,0.0
-58,Koll 2,OSI,0.0,0.0
-59,OSI,NMBUI,3,0
-60,NMBUI,OSI,0,3
-61,OSI,NTNUI 2,3,0
-62,NTNUI 2,OSI,0,3
-63,TVN,OSI,0.0,0.0
-64,Sandnes,BSI,2,3
-65,BSI,Sandnes,0.0,0.0
-66,Sandnes,Finstad,1,3
-67,Finstad,Sandnes,0.0,0.0
-68,Sandnes,Førde 2,3,0
-69,Førde 2,Sandnes,0.0,0.0
-70,Sandnes,Haugesund,2,3
-71,Haugesund,Sandnes,3,0
-72,Sandnes,Koll 2,0.0,0.0
-73,Koll 2,Sandnes,0,3
-74,Sandnes,NMBUI,1,3
-75,NMBUI,Sandnes,0.0,0.0
-76,Sandnes,NTNUI 2,0.0,0.0
-77,NTNUI 2,Sandnes,0.0,0.0
-78,Sandnes,OSI,0.0,0.0
-79,OSI,Sandnes,3,0
-80,TVN,Sandnes,3,0
-81,Tromsø,BSI,3,0
-82,BSI,Tromsø,0.0,0.0
-83,Tromsø,Finstad,0,3
-84,Finstad,Tromsø,0.0,0.0
-85,Tromsø,Førde 2,0.0,0.0
-86,Førde 2,Tromsø,0.0,0.0
-87,Tromsø,Haugesund,0.0,0.0
-88,Haugesund,Tromsø,2,3
-89,Tromsø,Koll 2,3,0
-90,Koll 2,Tromsø,0,3
-91,Tromsø,NMBUI,3,0
-92,NMBUI,Tromsø,3,2
-93,Tromsø,NTNUI 2,0.0,0.0
-94,NTNUI 2,Tromsø,0.0,0.0
-95,Tromsø,OSI,0.0,0.0
-96,OSI,Tromsø,3,2
-97,Tromsø,Sandnes,0.0,0.0
-98,Sandnes,Tromsø,2,3
-99,TVN,Tromsø,3,0
+36,Rival,BSI,0.0,0.0
+37,BSI,Rival,0.0,0.0
+38,Rival,NTNUI,0.0,0.0
+39,NTNUI,Rival,0.0,0.0
+40,Rival,Førde 2,0.0,0.0
+41,Førde 2,Rival,0.0,0.0
+42,Rival,Haugesund,0.0,0.0
+43,Haugesund,Rival,0.0,0.0
+44,Rival,OSI 2,0.0,0.0
+45,OSI 2,Rival,0.0,0.0
+46,Rival,NMBUI,0.0,0.0
+47,NMBUI,Rival,0.0,0.0
+48,TVN,Rival,0.0,0.0
+49,Sandnes,BSI,0.0,0.0
+50,BSI,Sandnes,0.0,0.0
+51,Sandnes,NTNUI,0.0,0.0
+52,NTNUI,Sandnes,0.0,0.0
+53,Sandnes,Førde 2,0.0,0.0
+54,Førde 2,Sandnes,0.0,0.0
+55,Sandnes,Haugesund,0.0,0.0
+56,Haugesund,Sandnes,0.0,0.0
+57,Sandnes,OSI 2,0.0,0.0
+58,OSI 2,Sandnes,0.0,0.0
+59,Sandnes,NMBUI,0.0,0.0
+60,NMBUI,Sandnes,0.0,0.0
+61,Sandnes,Rival,0.0,0.0
+62,Rival,Sandnes,0.0,0.0
+63,TVN,Sandnes,0.0,0.0
+64,Tromsø,BSI,0.0,0.0
+65,BSI,Tromsø,0.0,0.0
+66,Tromsø,NTNUI,0.0,0.0
+67,NTNUI,Tromsø,0.0,0.0
+68,Tromsø,Førde 2,0.0,0.0
+69,Førde 2,Tromsø,0.0,0.0
+70,Tromsø,Haugesund,0.0,0.0
+71,Haugesund,Tromsø,0.0,0.0
+72,Tromsø,OSI 2,0.0,0.0
+73,OSI 2,Tromsø,0.0,0.0
+74,Tromsø,NMBUI,0.0,0.0
+75,NMBUI,Tromsø,0.0,0.0
+76,Tromsø,Rival,0.0,0.0
+77,Rival,Tromsø,0.0,0.0
+78,Tromsø,Sandnes,0.0,0.0
+79,Sandnes,Tromsø,0.0,0.0
+80,TVN,Tromsø,0.0,0.0
